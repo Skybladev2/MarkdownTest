@@ -1,6 +1,10 @@
 # MarkdownTest
 A sandbox for markdown rendering test.
 
+*Italic*
+
+**Bold**
+
 http://daringfireball.net/projects/markdown/syntax
 
 # H1
@@ -39,10 +43,12 @@ Nested list:
     * Yet two spaces
     * Yet two spaces
 
+
 * List item 1 inside paragraph
 
 * List item 2 inside paragraph
  
+
 1. First list item first paragraph.
 
     First list item second paragraph.
