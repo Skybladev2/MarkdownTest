@@ -20,7 +20,13 @@ Unordered list:
 *   Green
 *   Blue
 
+or
+-   Red
+-   Green
+-   Blue
+
 Ordered list:
+
 1. Red
 2. Green
 3. Blue
