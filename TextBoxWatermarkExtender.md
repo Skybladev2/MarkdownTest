@@ -4,7 +4,7 @@ TextBoxWatermark is an ASP.NET AJAX extender that can be attached to an ASP.NET 
 
 *Namespace*: AjaxControlToolkit 
 
-*Methods*:
+## Methods
 
 **OnLoad**
 
@@ -14,7 +14,7 @@ OnLoad override to register a submit script for each TextBoxWatermark behavior a
 
 **e**:
 
-*Properties*:
+## Properties
 
 **WatermarkCssClass**
 
@@ -24,9 +24,9 @@ The CSS class to apply to the TextBox when it has no value (e.g. the watermark t
 
 The text to show when the control has no value.
 
-*Events*:
+## Events
 
-*Client methods*:
+## Client methods
 
 **clearText**
 
@@ -46,7 +46,7 @@ Method called to hook up to Sys.Preview.UI.TextBox if present
 
 **Note**: This method must be called manually if the Sys.Preview.UI.TextBox is added after the TextBoxWatermarkBehavior is initialized.
 
-*Client properties*:
+## Client properties
 
 **watermarkText**
 
