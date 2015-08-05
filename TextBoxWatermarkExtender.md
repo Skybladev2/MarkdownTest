@@ -12,7 +12,7 @@ OnLoad override to register a submit script for each TextBoxWatermark behavior a
 
 *Params*:
 
-**e**:
+* **e**:
 
 ## Properties
 
