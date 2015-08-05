@@ -89,3 +89,15 @@ public partial class ColorPicker_Default : System.Web.UI.Page {
     }
 }
 ```
+
+HRs:
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
