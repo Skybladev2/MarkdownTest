@@ -39,9 +39,20 @@ Nested list:
     * Yet two spaces
     * Yet two spaces
 
-* Item 1
+* List item 1 inside paragraph
 
-* Item 2
+* List item 2 inside paragraph
+ 
+1. First list item first paragraph.
+
+    First list item second paragraph.
+    
+  First list item third paragraph.
+  
+2. Second list item first paragraph.
+
+    Second list item second paragraph.
+
    
 `Monospace format`
 
